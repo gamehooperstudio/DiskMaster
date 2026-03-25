@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eR0t0hZAxwo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gameh\\OneDrive\\Desktop\\Projects\\WPF\\DiskMaster\\DiskMaster\\DiskMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gameh\\.nuget\\packages\\materialdesigncolors\\5.3.1\\materialdesigncolors.5.3.1.nupkg.sha512",
+    "C:\\Users\\gameh\\.nuget\\packages\\materialdesignthemes\\5.3.1\\materialdesignthemes.5.3.1.nupkg.sha512",
+    "C:\\Users\\gameh\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}
