@@ -86,7 +86,4 @@ Les fichiers qui ne peuvent pas être supprimés sont ignorés afin d'éviter l'
 
 ## 📸 Aperçu
 
-Ajoutez ici une capture d'écran de DiskMaster :
-
-```text
-![DiskMaster](s.png)
+<img width="695" height="736" alt="s" src="https://github.com/user-attachments/assets/c635678f-cf51-43d0-85b5-8477d6fa558a" />
